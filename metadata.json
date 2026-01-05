@@ -1,0 +1,5 @@
+{
+  "name": "FPL League Viewer",
+  "description": "A Fantasy Premier League classic league viewer styled with official FPL aesthetics, sorted by Gameweek points.",
+  "requestFramePermissions": []
+}
